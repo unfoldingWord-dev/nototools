@@ -1,0 +1,11 @@
+Clone repo: https://github.com/googlei18n/nototools
+Opened with InteliJ IDEA
+Follow README.md to setup environment
+
+had to substitute "py27-pygtk" for "pygtk"y
+
+edit "files" list in nototools/merge_fonts.py to include all the fonts you want to merge leaving 'NotoSans-Regular.ttf'
+first in list
+
+run merge tool:
+python ./nototools/merge_fonts.py --verbose -d ./fonts -o ./fonts/NotoSansSuper-Regular.ttf

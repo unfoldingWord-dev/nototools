@@ -53,6 +53,9 @@ files = [
     # It's recommended to put NotoSans-Regular.ttf as the first element in the
     # list to maximize the amount of meta data retained in the final merged font.
     'NotoSans-Regular.ttf',
+    'NotoSansGurmukhiUI-Regular.ttf',
+    'NotoSansOriyaUI-Regular.ttf',
+    'NotoSerifGujarati-Regular.ttf',
     'NotoSansAvestan-Regular.ttf',
     'NotoSansBalinese-Regular.ttf',
     'NotoSansBamum-Regular.ttf',
