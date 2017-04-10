@@ -48,7 +48,8 @@ log = logging.getLogger("nototools.merge_fonts")
 directory = ''
 
 
-# file names to be merged
+# file names to be merged - this is a list of valid fonts to merge.  Put the Noto fonts you actually want to merge into
+#       a separate folder.
 files = [
     # It's recommended to put NotoSans-Regular.ttf as the first element in the
     # list to maximize the amount of meta data retained in the final merged font.
