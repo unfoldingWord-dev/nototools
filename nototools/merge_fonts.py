@@ -57,6 +57,7 @@ files = [
     'NotoSansGurmukhiUI-Regular.ttf',
     'NotoSansOriyaUI-Regular.ttf',
     'NotoSerifGujarati-Regular.ttf',
+    'NotoNaskhArabicUI-Regular.ttf',
     'NotoSansAvestan-Regular.ttf',
     'NotoSansBalinese-Regular.ttf',
     'NotoSansBamum-Regular.ttf',
